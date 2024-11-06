@@ -1,0 +1,8 @@
+[init]
+	defaultBranch = main
+[user]
+	email = lytonm@lyton.dev
+	name = Lyton
+	signingkey = 161015AEEF21B421
+[commit]
+	gpgSign = false
