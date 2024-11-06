@@ -179,6 +179,8 @@ alias aptr='sudo apt remove'
 alias whome="cd /mnt/c/Users/ltmhl"
 alias ai="ai -s"
 alias main="tmux new -Asmain"
+alias libre="cd /home/lyton/Documents/GitRepos/LibreChat && docker compose up -d"
+alias libred="cd /home/lyton/Documents/GitRepos/LibreChat && docker compose down"
 # alias spring='cd "/home/lyton/Documents/school-stuff/spring 2024/cs2201"'
 #export QT_SCALE_FACTOR=1.4; obs
 # source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
