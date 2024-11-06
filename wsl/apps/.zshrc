@@ -178,6 +178,7 @@ alias apts='apt search'
 alias aptr='sudo apt remove'
 alias whome="cd /mnt/c/Users/ltmhl"
 alias ai="ai -s"
+alias main="tmux new -Asmain"
 # alias spring='cd "/home/lyton/Documents/school-stuff/spring 2024/cs2201"'
 #export QT_SCALE_FACTOR=1.4; obs
 # source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
