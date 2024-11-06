@@ -16,3 +16,4 @@ nb. Some application-specific dotfiles are shared across platforms e.g `zshrc`. 
 
 - `zsh` - Zsh config with [oh-my-zsh](https://ohmyz.sh/)
 - `tmux` - Tmux config with tmux plugin manager and [tmux-tilish](https://github.com/jabirali/tmux-tilish)
+-
